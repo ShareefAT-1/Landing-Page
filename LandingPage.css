@@ -1,0 +1,20 @@
+body{
+    background-image:url("./assets/pexels-mahima-518693-1250260.jpg");
+    height: 100vh;
+    
+}
+.main{
+    margin-right:0 ;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    gap: 2px;
+
+}
+.header{
+    word-spacing: 2px;
+}
+
